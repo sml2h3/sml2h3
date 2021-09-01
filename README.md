@@ -54,7 +54,7 @@
   📫 对我的开源项目有任何意见可以在对应项目下添加ISSUE，我将会在72小时内回复你
 </p>
 <p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/smlh23/smlh23"></a> 欢迎来到我的主页
+  <a href="#"><img src="https://badges.pufler.dev/visits/sml2h3/sml2h3"></a> 欢迎来到我的主页
 </p>
 
 
